@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-https://rahuldkjain.github.io/gh-profile-readme-generator/
-https://arturssmirnovs.github.io/github-profile-readme-generator/
+- https://rahuldkjain.github.io/gh-profile-readme-generator/
+- https://arturssmirnovs.github.io/github-profile-readme-generator/
